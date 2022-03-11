@@ -27,10 +27,11 @@ class MyApp extends StatelessWidget {
               ),
               Text('Software Developer',
                 style: TextStyle(
-                  fontFamily: 'SourceSansPro',
+                  fontFamily: 'Source Sans Pro',
                   fontWeight: FontWeight.bold,
-                  color: Colors.white,
-                  fontSize: 30,
+                  color: Colors.teal[100],
+                  fontSize: 20,
+                  letterSpacing: 2.5
                 ),),
 
             ],
